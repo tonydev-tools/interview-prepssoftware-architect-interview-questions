@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pip install gTTS
+pip install gTTS 
 
 sudo apt upgrade
 
