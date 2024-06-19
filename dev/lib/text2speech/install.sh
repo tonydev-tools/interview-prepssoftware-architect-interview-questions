@@ -6,7 +6,7 @@ sudo apt upgrade
 
 sudo apt update
 
-sudo apt install xclip || echo -e "\n\n\t"
+sudo apt install xclip || echo -e "\n\n\t\033[34]"
 
 sudo apt install sox
 
