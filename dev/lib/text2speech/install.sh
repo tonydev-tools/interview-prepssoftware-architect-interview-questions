@@ -6,7 +6,7 @@ sudo apt upgrade
 
 sudo apt update
 
-sudo apt install xclip || echo -e "\n\n\t\033[34merror \033[34mxclip\033[0m not installed\033[0m"
+sudo apt install xclip || echo -e "\n\n\t\033[34merror \033[3mxclip\033[0m not installed\033[0m"
 
 sudo apt install sox || echo -e "\n\n\t\033[34merror \033[33msox\033[0m not installed\033[0m"
 
