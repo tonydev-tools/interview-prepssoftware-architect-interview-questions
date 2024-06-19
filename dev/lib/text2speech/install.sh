@@ -4,7 +4,7 @@ pip install gTTS  || echo -e "\n\n\t\033[34merror \033[33mgTTS\033[0m not instal
 
 sudo apt upgrade
 
-sudo apt updateR
+sudo apt update
 
 sudo apt install xclip || echo -e "\n\n\t\033[34merror \033[33mxclip\033[0m not installed\033[0m"
 
