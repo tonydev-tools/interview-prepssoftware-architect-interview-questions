@@ -4,3 +4,4 @@ pip install gTTS
 
 sudo apt upgrade
 
+sudo a
