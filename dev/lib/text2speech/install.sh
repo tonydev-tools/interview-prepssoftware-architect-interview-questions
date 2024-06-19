@@ -6,3 +6,4 @@ sudo apt upgrade
 
 sudo apt update
 
+sudo apt inst
